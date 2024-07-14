@@ -1,0 +1,6 @@
+$red: rgba(252, 57, 57, 0.961);
+$orange: orange;
+$orangered: $red, $orange;
+.bg-orangered {
+  background: linear-gradient($orangered);
+}
